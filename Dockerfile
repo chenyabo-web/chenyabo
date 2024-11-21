@@ -1,1 +1,1 @@
-FROM datatom/dmdb:7
+FROM centos:7
